@@ -1,0 +1,7 @@
+name: KeepAlive
+version: "${project.version}"
+main: de.cubeisland.KeepAlive.KeepAlive
+website: "http://cubeisland.de"
+description: "Trys to keep players online while the server is halted."
+authors:
+  - "Quick_Wango"
